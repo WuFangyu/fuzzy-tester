@@ -48,7 +48,7 @@
     "tap-dot": "^2.0.0",
     "tap-spec": "^5.0.0",
     "tape": "^4.10.1",
-    "through2": "^3.0.0"
+    "through2": "^3.0.1"
   },
   "repository": {
     "type": "git",
