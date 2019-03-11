@@ -41,7 +41,7 @@
     "sync-request": "^6.0.0"
   },
   "devDependencies": {
-    "csv-parse": ">=1.0.0",
+    "csv-parse": ">=4.3.4",
     "jshint": "^2.6.3",
     "precommit-hook": "^3.0.0",
     "proj4": "^2.3.12",
